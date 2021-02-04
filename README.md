@@ -9,4 +9,4 @@ uses hashlib module in python to decrypt various hashes to plain text..
 
 working on future update with more hash algorithms!!
 
-for installation check #installation for requirments check #requirements
+goto installation for more details
