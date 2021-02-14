@@ -16,4 +16,8 @@ working on future updates...
 
 `pip install -r requirments.txt`
 
-`chmod +x HashPup.py
+`chmod +x HashPup.py`
+
+`python3 HashPup.py`
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
