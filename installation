@@ -1,4 +1,3 @@
-you will need to install hashlib for running this file..if any of the modules are missing use pip install <module_name>
+`git clone https://github.com/berry-dev/hash-decrypter.git`
 
 
-use git clone 
