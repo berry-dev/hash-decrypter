@@ -8,6 +8,12 @@ working on future updates...
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Installation
 
-## `git clone https://github.com/berry-dev/hash-decrypter.git`
+
+## Installation and running the file
+
+`git clone https://github.com/berry-dev/hash-decrypter.git`
+
+`pip install -r requirments.txt`
+
+`chmod +x HashPup.py
