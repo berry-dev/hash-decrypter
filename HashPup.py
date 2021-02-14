@@ -60,8 +60,8 @@ if selection==1:
     digest = hashlib.md5(enc_wrd.strip()).hexdigest()
     
     if digest == pass_hash:
-         print("Password found",'green')
-         cprint("password is " + word,'green')
+         print("Password found")
+         cprint("password is " + word,)
          flag = 1
          break
 #md5()          
