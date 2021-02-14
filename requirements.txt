@@ -1,0 +1,8 @@
+# Used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+colorama==0.4.3
+halo==0.0.31
+pyfiglet==0.8.post1
+spinners==0.0.24
+termcolor==1.1.0
